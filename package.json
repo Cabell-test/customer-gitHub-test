@@ -1,0 +1,23 @@
+{
+  "name": "jd-customer-service-kb-static",
+  "version": "1.0.0",
+  "private": true,
+  "description": "京东店铺客服内部知识库 MVP，纯静态导出，零后端依赖。",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "^14.2.30",
+    "react": "^18.3.1",
+    "react-copy-to-clipboard": "^5.1.0",
+    "react-dom": "^18.3.1",
+    "react-markdown": "^9.0.1"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.21",
+    "postcss": "^8.5.6",
+    "tailwindcss": "^3.4.17"
+  }
+}
